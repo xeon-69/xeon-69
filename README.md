@@ -1,4 +1,4 @@
-# Hi, I'm Min 👋
+# Hi, I'm xeon 👋
 
 - 🌱 Learning: Web delevelopment
 - 💼 Working on: Job Portal Website
