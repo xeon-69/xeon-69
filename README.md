@@ -1,6 +1,6 @@
 # Hi, I'm xeon 👋
 
-- 🌱 Learning: Web delevelopment
+- 🌱 Learning: Software delevelopment
 - 💼 Working on: Store Management Software
 - 🧰 Tech: Java, MySQL, PHP, JS, Docker
 - 📫 Contact: mtk9838@gmail.com
