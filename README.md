@@ -1,7 +1,6 @@
 # Hi, I'm xeon 👋
 
 - 🌱 Learning: Software delevelopment
-- 💼 Working on: _
 - 🧰 Tech: Java, PHP, JS, Docker
 - 📫 Contact: mtk9838@gmail.com
 
